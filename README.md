@@ -9,6 +9,10 @@ Random text in Introduction
 
 ## Purpose
 
+More random text in Purpose because... why not? :D
+
 ## Deployment
+
+More text wow that's so smart
 
 ## How To Contribute
